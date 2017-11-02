@@ -53,3 +53,7 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
+/.idea/findbugs-idea.xml
+.idea/findbugs-idea.xml
+app/libs/
+app/src/main/res/drawable/
